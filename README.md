@@ -1,3 +1,9 @@
+Streamlit link- http://localhost:8502
+**Streamlit Result**
+![Streamlit app localhost screenshot](https://github.com/user-attachments/assets/d542cc8d-01d9-4b53-b8ac-db917ca01440)
+
+
+
 **JOB MARKET ANALYSIS AND RECOMMENDATION SYSTEM**
 
 **Project Objective:**
